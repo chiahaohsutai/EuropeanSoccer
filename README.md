@@ -1,6 +1,6 @@
 # EuropeanSoccer
 
-*What is this project about?* The team craetad a command line interface for a database using Java and MySQL. The project focuses on genearting a database and likewise an accompaning apllication that is able to support all CRUD operations. 
+*What is this project about?* The team creatad a command line interface for a database using Java and MySQL. The project focuses on genearting a database and likewise an accompaning apllication that is able to support all CRUD operations. 
 
 Course Name : Datanase Design
 
